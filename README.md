@@ -1,2 +1,2 @@
-# RNA_TensorFLow
+# RNA_TensorFlow
 Redes Neuras Artificiais com TensorFlow
